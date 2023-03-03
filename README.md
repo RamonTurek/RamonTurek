@@ -10,3 +10,7 @@
 <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" /> 
 <hr>
 <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+<hr>
+
+# Produzindo um jogo - Equipe ↴ 
+## ┃ https://github.com/tch0la - https://github.com/sxmyy ┃
