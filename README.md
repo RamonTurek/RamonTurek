@@ -1,3 +1,6 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamonTurek&show_icons=true&theme=transparent) 
+
+
 ### Rocket League ProPlayer!!!
 ## Aluno de desenvolvimento de sistemas!
 
