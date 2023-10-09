@@ -2,7 +2,7 @@
 <hr>
 
 # Aprendendo:
- <img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /><img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" /> <img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="150px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" /> <img height="150px" scr="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/e500b7708a865ec27eef36c33953b06e.ico"/>
+ <img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /><img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" /> <img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="150px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" /> <img height="150px" scr="https://www.moosoft.com/wp-content/uploads/2022/11/gamemaker-studio-98765-1.png"/>
 <p align="center">
  
 ## Produzindo um jogo - Equipe ↴ 
