@@ -2,7 +2,7 @@
 <hr>
 
 # Aprendendo:
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,cpp,gamemakerstudio,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,cpp,gamemakerstudio,blender)](https://skillicons.dev)
 
 ## Meus jogos:
 ### https://gx.games/pt-br/games/2qonvb/feira-de-ciencias/tracks/6a7a50ff-ad53-4f56-b6c8-6e0f105a9123/
