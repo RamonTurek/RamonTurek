@@ -2,6 +2,7 @@
 <hr>
 
 # Aprendendo:
+(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
  <img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /><img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> <img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="150px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" /> <img height="150px" scr="https://www.moosoft.com/wp-content/uploads/2022/11/gamemaker-studio-98765-1.png"/>
 <p align="center">
  
