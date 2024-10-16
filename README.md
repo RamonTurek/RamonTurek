@@ -5,5 +5,5 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,cpp,gamemakerstudio,blender)](https://skillicons.dev)
 
 ## Meus jogos:
-##ramonturek.itch.io
+## https//ramonturek.itch.io
 </p>
