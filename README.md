@@ -2,7 +2,7 @@
 <hr>
 
 # Aprendendo:
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,cpp,gamemakerstudio,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,gamemakerstudio,blender)](https://skillicons.dev)
 
 ## Meus jogos:
 ## https://ramonturek.itch.io
